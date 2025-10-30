@@ -1,4 +1,4 @@
-📚 Book Finder App >= https://codesandbox.io/p/devbox/ry59d4
+📚 Book Finder App >= https://codesandbox.io/p/devbox/rw2wrt?migrateFrom=kdcq5z
 A responsive React application that allows users to search for books using the Open Library API. It displays trending books by default and shows detailed information when a book is selected.
 
 🚀 Features
